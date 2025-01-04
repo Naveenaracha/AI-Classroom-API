@@ -1,1 +1,1 @@
-web: python get_content.py
+web: python content.py
